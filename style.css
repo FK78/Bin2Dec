@@ -1,0 +1,14 @@
+#container {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #003b49;
+}
+
+.emptyField {
+    border-color: #d3273e;
+    border-width: 3px;
+}
